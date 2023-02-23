@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Mahmoud M.Kamal👋
 
 I'm a NodeJS based in Egypt, passionate about web development and .
 
@@ -59,6 +59,5 @@ I'm a NodeJS based in Egypt, passionate about web development and .
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/[YourLinkedInHandle]/)
-- [Twitter](https://twitter.com/[YourTwitterHandle]/)
-- [Portfolio](https://[YourPortfolioURL]/)
+- [LinkedIn](https://www.linkedin.com/in/mahmoudmk/)
+- [E-mail](mailto://mahmoudk63@gmail.com)
