@@ -85,9 +85,7 @@ I'm a NodeJS based in Egypt, passionate about web development and .
 
 ### Full Stack (MERN) at Hoopoe Digital (from 2020 to 2021)
 
-- [Job Responsibility 1]
-- [Job Responsibility 2]
-- [Job Responsibility 3]
+
 
 ## Connect with Me
 
