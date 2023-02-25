@@ -1,6 +1,6 @@
 # Hello, I'm Mahmoud M.Kamal👋
 
-I'm a NodeJS based in Egypt, passionate about web development and .
+I'm a NodeJS developer based in Egypt, passionate about web development.
 
 ## About Me
 
