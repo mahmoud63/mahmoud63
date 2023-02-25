@@ -4,10 +4,9 @@ I'm a NodeJS based in Egypt, passionate about web development and .
 
 ## About Me
 
-- 🔭 I'm currently working on Hollydesk
+- 🔭 I'm currently working on Hollydesk v2
 - 🌱 I'm currently learning Angular
 - 👯 I'm looking to collaborate on a tool for automating tedious tasks in web development
-- 🤔 I'm looking for help with [Your Challenge]
 - 💬 Ask me about web development, nodejs, graphql
 - 📫 How to reach me: mahmoudk63@gmail.com
 - 😄 Pronouns: Male
@@ -16,42 +15,75 @@ I'm a NodeJS based in Egypt, passionate about web development and .
 
 ### Technical Skills
 
-- [nodeJS]
-- [Skill 2]
-- [Skill 3]
+- HTML,CSS
+- JavaScript
+- NodeJS
+- ExpressJs
+- GraphQL
+- jest
+- reactjs
+- redux
+- MongoDB
+- Mongoose
+- MySQL
+- sequelize
+
+### Tools
+- AWS
+- Digital Ocean
+- VS code
+- Mongo compass
+- MySQL workbench
+- BeeKeeper studio 
+
 
 ### Soft Skills
 
-- [Soft Skill 1]
-- [Soft Skill 2]
-- [Soft Skill 3]
+- Communication
+- Adaptability
+- Time management
+- Creativity
+- Empathy
+
 
 ## Projects
 
-- [Project 1]
-- [Project 2]
-- [Project 3]
+- WIFI management cloud (Hoopoe digital)
+- Ad Manager (Hoopoe digital)
+- Hollydesk v1 (MVP for managing company's expenses)
+- School calling system (ylla.online)
+- courses mangment system admin panel and API for mobile
+- Hollydesk API v2 (enhanced version) (under progress)
+
 
 ## Certifications
 
-- [Certification 1]
-- [Certification 2]
-- [Certification 3]
+- ITI - web development deploma
+- Coursera - fundamental of data science
 
 ## Education
 
-- [Degree] in [Field of Study] from [Institute/University]
-- [Degree] in [Field of Study] from [Institute/University]
+- Bachelor's degree in Software Engineering from Mansoura University
 
 ## Experience
 
-### [Job Title] at [Company Name]
+### Full stack at Hollydesk (from 2021 till now)
 
-- [Job Responsibility 1]
-- [Job Responsibility 2]
-- [Job Responsibility 3]
+- Designing and implementing server-side services unsing Graphql.
+- Collaborating with front-end developers, product managers, and other stakeholders to develop and maintain robust APIs and web services.
+- Developing database schemas and data access layers inv2 using sequlize and MySQL.
+- Maintaining database schemas and data access layers in v1 using mongoose.
+- Maintaining server and deployment
+- Debugging and troubleshooting issues in the backend 
+- Writing and maintaining technical documentation for backend systems and services.
+- Keeping up to date with emerging trends and best practices in backend development and incorporating them into your work.
+- Ensuring the security and scalability of backend systems, including implementing measures such as load balancing and caching.
+- Participating in code reviews, testing, and deployment processes to ensure quality and reliability of backend services.
+- Maintaining and improving existing backend systems to ensure they continue to meet business needs and perform efficiently.
+- Developed Hollydesk v1 web applications using Reactjs.
+- Collaborating with designers, and product managers to develop and implement web designs and user interfaces.
 
-### [Job Title] at [Company Name]
+### Full Stack (MERN) at Hoopoe Digital (from 2020 to 2021)
 
 - [Job Responsibility 1]
 - [Job Responsibility 2]
