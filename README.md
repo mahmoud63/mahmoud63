@@ -1,6 +1,6 @@
 # Hello, I'm Mahmoud M.Kamal👋
 
-I'm a NodeJS developer based in Egypt, passionate about web development.
+I'm a Node.js developer with [X] years of experience in building scalable and performant web applications based in Egypt. I'm passionate about writing clean and efficient code that solves real-world problems.
 
 ## About Me
 
@@ -11,7 +11,7 @@ I'm a NodeJS developer based in Egypt, passionate about web development.
 - 📫 How to reach me: mahmoudk63@gmail.com
 - 😄 Pronouns: Male
 
-## My Skills
+## 🚀 My Skills
 
 ### Technical Skills
 
@@ -46,7 +46,7 @@ I'm a NodeJS developer based in Egypt, passionate about web development.
 - Empathy
 
 
-## Projects
+## 📝 Projects
 
 - WIFI management cloud (Hoopoe digital)
 - Ad Manager (Hoopoe digital)
@@ -56,16 +56,16 @@ I'm a NodeJS developer based in Egypt, passionate about web development.
 - Hollydesk API v2 (enhanced version) (under progress)
 
 
-## Certifications
+##  Certifications
 
 - ITI - web development deploma
 - Coursera - fundamental of data science
 
-## Education
+## 🌱 Education
 
 - Bachelor's degree in Software Engineering from Mansoura University
 
-## Experience
+## 💼 Professional Experience
 
 ### Full stack at Hollydesk (from 2021 till now)
 
@@ -87,7 +87,7 @@ I'm a NodeJS developer based in Egypt, passionate about web development.
 
 
 
-## Connect with Me
+## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/mahmoudmk/)
 - [E-mail](mailto://mahmoudk63@gmail.com)
