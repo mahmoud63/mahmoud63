@@ -16,7 +16,7 @@ I'm a NodeJS based in Egypt, passionate about web development and .
 
 ### Technical Skills
 
-- [Skill 1]
+- [nodeJS]
 - [Skill 2]
 - [Skill 3]
 
