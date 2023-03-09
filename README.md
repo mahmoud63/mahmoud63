@@ -4,7 +4,7 @@
 
 
 <p align="center" width="100%">
-    <img width="15%" src="https://github.com/mahmoud63/mahmoud63/blob/main/mk.png?raw=true"> 
+    <img src="https://github.com/mahmoud63/mahmoud63/blob/main/mk.png?raw=true"> 
 </p>
 
 
