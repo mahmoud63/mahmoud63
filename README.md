@@ -1,6 +1,6 @@
 # Hello, I'm Mahmoud M.Kamal👋
 
-I'm a Node.js developer with [X] years of experience in building scalable and performant web applications based in Egypt. I'm passionate about writing clean and efficient code that solves real-world problems.
+I'm a Node.js developer with 3 years of experience in building scalable and performant web applications based in Egypt. I'm passionate about writing clean and efficient code that solves real-world problems.
 
 ## About Me
 
