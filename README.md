@@ -10,97 +10,52 @@
 
 
 
+# Hi, I'm Mahmoud Kamal! 👋
 
-# Hello, I'm Mahmoud M.Kamal👋
+I'm a **Full Stack Developer** with over 5 years of experience specializing in **NodeJS** and **ReactJS** ecosystems. I am passionate about building scalable applications and have a proven track record of delivering high-quality solutions in both front-end and back-end development. I love working on collaborative teams, constantly improving my skills, and staying updated with new technologies.
 
-I'm a Node.js developer with 3 years of experience in building scalable and performant web applications based in Egypt. I'm passionate about writing clean and efficient code that solves real-world problems.
+## 🛠️ Tech Stack
+- **Backend:** NodeJS, ExpressJS, JWT, Apollo GraphQL, GraphQL Shield, MongoDB, Mongoose, MySQL, Sequelize
+- **Frontend:** HTML/CSS, JSX, ReactJS, AngularJS, React Router, Redux, React Context, React Hooks, Ant-design, React Bootstrap, Material UI
+- **Tools & DevOps:** Git, CI/CD, AWS, Digital Ocean, GCP, VS Code, Mongo Compass, MySQL Workbench
+- **Other Skills:** Communication, Adaptability, Teamwork
 
-## About Me
+## 🚀 Projects
 
-- 🔭 I'm currently working on Hollydesk v2
-- 🌱 I'm currently learning Angular
-- 👯 I'm looking to collaborate on a tool for automating tedious tasks in web development
-- 💬 Ask me about web development, nodejs, graphql
-- 📫 How to reach me: mahmoudk63@gmail.com
-- 😄 Pronouns: Male
+### [Hollydesk v1](https://hollydesk.com/)
+A platform to manage company spendings all in one place.
 
-## 🚀 My Skills
+### Twist Music (Etisalat Misr)
+Developed and maintained an internal dashboard to manage the Twist Music app, improving performance and user experience.
 
-### Technical Skills
+### Ylla
+A school control panel and mobile app system for managing student dismissal requests.
 
-- HTML,CSS
-- JavaScript
-- NodeJS
-- ExpressJs
-- GraphQL
-- jest
-- reactjs
-- redux
-- MongoDB
-- Mongoose
-- MySQL
-- sequelize
+### Ad Manager
+An advertising campaign management tool for WiFi Management Cloud.
 
-### Tools
-- AWS
-- Digital Ocean
-- VS code
-- Mongo compass
-- MySQL workbench
-- BeeKeeper studio 
+### WiFi Management Cloud
+A SaaS product that helps users with public networks manage apps such as food menus and ads for connected users.
 
+## 📈 Work Experience
 
-### Soft Skills
+### Full Stack Web Developer | **Etisalat Misr** | 2023 - Present
+- Focused on the Twist Music project, developing an internal dashboard to manage the app.
+- Collaborated with cross-functional teams to ensure seamless integration and performance optimization.
+- Implemented secure communication using JWT authentication and role-based access control.
 
-- Communication
-- Adaptability
-- Time management
-- Creativity
-- Empathy
+### Full Stack Web Developer | **Unilever** | 04/2023 – 06/2024
+- Developed and maintained cloud functions and webhooks for Shopify stores and business teams.
+- Managed external API integrations and worked on a campaign tool dashboard using GCP services.
 
+### Full Stack Web Developer | **HollyDesk** | 12/2020 – 06/2023
+- Developed and maintained the Hollydesk v1 platform using ReactJS and GraphQL.
 
-## 📝 Projects
+### Full Stack Web Developer | **Hoopoe Digital** | 01/2020 – 12/2020
+- Built and maintained full-stack web applications with NodeJS, React, and MySQL, collaborating closely with stakeholders.
 
-- WIFI management cloud (Hoopoe digital)
-- Ad Manager (Hoopoe digital)
-- Hollydesk v1 (MVP for managing company's expenses)
-- School calling system (ylla.online)
-- courses mangment system admin panel and API for mobile
-- Hollydesk API v2 (enhanced version) (under progress)
+## 💼 Let's Connect
+- Email: [mahmoudk63@gmail.com](mailto:mahmoudk63@gmail.com)
+- LinkedIn: [linkedin.com/in/mahmoudmk/](https://linkedin.com/in/mahmoudmk/)
+- GitHub: [github.com/mahmoud63](https://github.com/mahmoud63)
 
-
-##  Certifications
-
-- ITI - web development deploma
-- Coursera - fundamental of data science
-
-## 🌱 Education
-
-- Bachelor's degree in Software Engineering from Mansoura University
-
-## 💼 Professional Experience
-
-### Full stack at Hollydesk (from 2021 till now)
-
-- Designing and implementing server-side services unsing Graphql.
-- Collaborating with front-end developers, product managers, and other stakeholders to develop and maintain robust APIs and web services.
-- Developing database schemas and data access layers inv2 using sequlize and MySQL.
-- Maintaining database schemas and data access layers in v1 using mongoose.
-- Maintaining server and deployment
-- Debugging and troubleshooting issues in the backend 
-- Writing and maintaining technical documentation for backend systems and services.
-- Keeping up to date with emerging trends and best practices in backend development and incorporating them into your work.
-- Ensuring the security and scalability of backend systems, including implementing measures such as load balancing and caching.
-- Participating in code reviews, testing, and deployment processes to ensure quality and reliability of backend services.
-- Maintaining and improving existing backend systems to ensure they continue to meet business needs and perform efficiently.
-- Developed Hollydesk v1 web applications using Reactjs.
-- Collaborating with designers, and product managers to develop and implement web designs and user interfaces.
-
-### Full Stack (MERN) at Hoopoe Digital (from 2020 to 2021)
-
-
-
-## 📫 Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/mahmoudmk/)
-- [E-mail](mailto://mahmoudk63@gmail.com)
