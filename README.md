@@ -1,61 +1,61 @@
-
-
-
-
-
-<p align="center" width="100%">
-    <img src="https://github.com/mahmoud63/mahmoud63/blob/main/mk.png?raw=true"> 
-</p>
-
-
-
-
-# Hi, I'm Mahmoud Kamal! 👋
-
-I'm a **Full Stack Developer** with over 5 years of experience specializing in **NodeJS** and **ReactJS** ecosystems. I am passionate about building scalable applications and have a proven track record of delivering high-quality solutions in both front-end and back-end development. I love working on collaborative teams, constantly improving my skills, and staying updated with new technologies.
-
-## 🛠️ Tech Stack
-- **Backend:** NodeJS, ExpressJS, JWT, Apollo GraphQL, GraphQL Shield, MongoDB, Mongoose, MySQL, Sequelize
-- **Frontend:** HTML/CSS, JSX, ReactJS, AngularJS, React Router, Redux, React Context, React Hooks, Ant-design, React Bootstrap, Material UI
-- **Tools & DevOps:** Git, CI/CD, AWS, Digital Ocean, GCP, VS Code, Mongo Compass, MySQL Workbench
-- **Other Skills:** Communication, Adaptability, Teamwork
-
-## 🚀 Projects
-
-### [Hollydesk v1](https://hollydesk.com/)
-A platform to manage company spendings all in one place.
-
-### Twist Music (Etisalat Misr)
-Developed and maintained an internal dashboard to manage the Twist Music app, improving performance and user experience.
-
-### Ylla
-A school control panel and mobile app system for managing student dismissal requests.
-
-### Ad Manager
-An advertising campaign management tool for WiFi Management Cloud.
-
-### WiFi Management Cloud
-A SaaS product that helps users with public networks manage apps such as food menus and ads for connected users.
-
-## 📈 Work Experience
-
-### Full Stack Web Developer | **Etisalat Misr** | 2023 - Present
-- Focused on the Twist Music project, developing an internal dashboard to manage the app.
-- Collaborated with cross-functional teams to ensure seamless integration and performance optimization.
-- Implemented secure communication using JWT authentication and role-based access control.
-
-### Full Stack Web Developer | **Unilever** | 04/2023 – 06/2024
-- Developed and maintained cloud functions and webhooks for Shopify stores and business teams.
-- Managed external API integrations and worked on a campaign tool dashboard using GCP services.
-
-### Full Stack Web Developer | **HollyDesk** | 12/2020 – 06/2023
-- Developed and maintained the Hollydesk v1 platform using ReactJS and GraphQL.
-
-### Full Stack Web Developer | **Hoopoe Digital** | 01/2020 – 12/2020
-- Built and maintained full-stack web applications with NodeJS, React, and MySQL, collaborating closely with stakeholders.
-
-## 💼 Let's Connect
-- Email: [mahmoudk63@gmail.com](mailto:mahmoudk63@gmail.com)
-- LinkedIn: [linkedin.com/in/mahmoudmk/](https://linkedin.com/in/mahmoudmk/)
-- GitHub: [github.com/mahmoud63](https://github.com/mahmoud63)
-
+Mahmoud Kamal
+Senior Full Stack Developer | Backend-Focused
+Contact Information
+Email: mahmoudk63@gmail.com
+Phone: 01030606980
+Location: Cairo, Egypt
+LinkedIn: linkedin.com/in/mahmoudmk/
+GitHub: github.com/mahmoud63
+Professional Summary
+Full Stack Developer with 6+ years of experience building and evolving scalable web applications, with a strong focus on backend development and system architecture. Experienced in Node.js, Java, React, Angular, MongoDB, PostgreSQL, MySQL, and DynamoDB, with hands-on experience across AWS, GCP, and DigitalOcean. Proven experience building products from the ground up, modernizing MVPs as they scale, designing APIs and integrations, and developing internal platforms and complex business workflows. Strong background in REST, GraphQL, authentication and authorization, payment integrations, CI/CD, and cloud-based systems, with experience across telecom, fintech, e-commerce, and enterprise environments.
+Professional Experience
+Full Stack Web Developer — Etisalat Misr
+04/2023 – Present | Egypt
+Developed and maintained the Twist Music Toolbox, an internal CMS for managing key aspects of the music application, including users, tracks, content, rankings, and media assets.
+Initially developed the Toolbox using Angular, Node.js, and DynamoDB, building tools that enabled business teams to manage application content without direct backend intervention.
+Contributed to the Twist Music application backend, built with Java, integrating with external music APIs to retrieve and manage music content.
+Designed and implemented major backend features from the ground up, including Podcasts and Library Import, expanding the application's content capabilities and user experience.
+Re-engineered the Toolbox into a broader content and application management platform using React, Java, PostgreSQL, and DynamoDB, enabling management of users, music content, loyalty coins, and other core application features.
+Introduced and implemented Magic Link authentication as a reusable login approach for CMS platforms, leveraging AWS Lambda functions to provide passwordless authentication and improve the login experience.
+Developed AWS Lambda functions supporting application features and content sharing, including generating Open Graph (OG) metadata for shared music content across platforms such as WhatsApp.
+Full Stack Web Developer — Unilever
+04/2023 – 04/2024 | Egypt
+Developed and maintained a campaign management dashboard using Node.js, Express.js, React, and MongoDB, enabling business teams to create and manage interactive customer campaigns.
+Built interactive campaign experiences including quizzes, simple games, and custom forms, allowing users to participate in campaigns and qualify for rewards.
+Implemented campaign workflows for managing participant submissions, winners, and campaign-related data, supporting different campaign scenarios and business requirements.
+Developed and maintained Shopify webhooks and integrations, customizing requests and integrating with external APIs to support business-specific order and delivery workflows.
+Built and maintained CI/CD pipelines on Google Cloud Platform (GCP), supporting reliable deployment and delivery of campaign applications and services.
+Revamped the React dashboard UI, improving its overall design, usability, and consistency while collaborating with the development team to deliver new requirements.
+Full Stack Web Developer — HollyDesk
+12/2020 – 06/2023 | Egypt
+Built HollyDesk from the ground up, developing the initial MVP using React.js, Node.js, Express.js, and MongoDB to help businesses manage company expenses and financial operations.
+Designed and implemented core platform functionality including authentication, company onboarding, employee management, and role- and team-based access control.
+Integrated the platform with a payment gateway and developed financial workflows supporting company wallets and bank transfer operations.
+Built an internal Admin Panel for managing users and companies, providing administrative controls over accounts, organizations, and company wallets.
+Contributed to the architectural revamp of the platform as usage grew and the original MVP began facing performance and scalability limitations.
+Developed the V2 backend using Node.js, GraphQL, MySQL, and Sequelize, redesigning backend services and data access patterns to support the platform's growing requirements.
+Maintained compatibility with existing V1 MongoDB/Mongoose data and workflows during the transition while collaborating with the frontend developer and wider product team on the new platform.
+Full Stack Web Developer — Hoopoe Digital
+01/2020 – 12/2020 | Egypt
+Developed and maintained full-stack web applications using Node.js, React.js, MySQL, and MongoDB, translating business requirements into reliable technical solutions.
+Designed and developed REST and GraphQL APIs, collaborating with frontend developers to support application features and integrations.
+Designed and maintained database schemas and data access layers using MySQL, Sequelize, MongoDB, and Mongoose, ensuring reliable data management across applications.
+Managed application deployment and server environments on DigitalOcean, including troubleshooting production issues and maintaining backend services.
+Collaborated with developers and stakeholders through code reviews, testing, debugging, and Agile development practices, contributing to maintainable and reliable software releases.
+Technical Skills
+Languages: JavaScript, TypeScript, Java
+Backend: Node.js, Express.js, REST APIs, GraphQL, Webhooks
+Frontend: React.js, Angular, HTML, CSS, Tailwind CSS
+Databases: MongoDB, PostgreSQL, MySQL, DynamoDB
+Cloud & DevOps: AWS (Lambda, Cognito, DynamoDB), GCP, DigitalOcean, CI/CD
+Data & ORM: Mongoose, Sequelize
+Authentication & Security: JWT, Magic Link Authentication, Role-Based Access Control (RBAC)
+Integrations: Shopify, Payment Gateways, External APIs
+Version Control: Git
+Education
+Bachelor of Software Engineering
+Mansoura University
+10/2014 – 07/2018 | Mansoura, Egypt
+Diploma: MEAN Stack Development
+ITI — Information Technology Institute
+08/2019 – 10/2019
